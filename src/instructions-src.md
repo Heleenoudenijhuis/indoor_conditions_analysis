@@ -1,0 +1,1 @@
+Use this folder to store scripts, notebooks, and other files that contain your code. If you are running multiple different kinds of analyses, it's recommended to keep separate files for each. As a note, if you are using code to produce figures, the figure files themselves can be stored in the "figures" folder within the project directory.
