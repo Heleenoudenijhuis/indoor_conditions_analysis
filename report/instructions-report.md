@@ -1,0 +1,1 @@
+Use this folder to store drafts of your manuscript, if you are writing one associated with this project. It is good to list this folder in the .gitignore file, so its contents are not shared or stored on GitLab.
