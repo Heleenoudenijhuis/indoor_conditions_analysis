@@ -1,0 +1,1 @@
+Use this folder to store raw data associated with your project. It is good practice to keep this raw data intact without altering any part of the file. If you need to make changes to the data to make it usable in your analysis, store new versions in the "processed" data folder. You can think of the contents of this folder as "read-only".
