@@ -1,0 +1,1 @@
+Use this folder to store figures produced by your code or via your analysis. Check to see whether the journal you are submitting to has requirements for file size, format and/or resolution. Most coding languages will have options to export figures with custom values for these parameters.
