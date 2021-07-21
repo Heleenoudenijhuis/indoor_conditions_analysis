@@ -1,0 +1,1 @@
+Use this folder to store references, papers, and other notes related to your project as it is in development. Generally it is recommended to list this folder in the .gitignore file so the contents are not pushed to the remote repository (it can be very large). Rather it is useful to keep on your local computer as a neat way to organize supporting materials. 
