@@ -1,9 +1,9 @@
-# Add markdown text below
-
 Project name:		
 
-Date:        		    
-Author:      		
+Date:
+
+Author:
+
 License:     		
 
 Description: 		
