@@ -1,0 +1,1 @@
+Use this folder to store data produced by your analyses, in other words, written by the analysis scripts you have created. It can be thought of as a "write-only" type of folder. *Raw* data should be stored elsewhere in the "raw/" data folder.
