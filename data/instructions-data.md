@@ -1,1 +1,1 @@
-
+Use this folder to store your raw and processed data files, respectively. It is good practice to list this folder in your .gitignore file, especially if the contents get very large, so that these files will not be pushed or stored in GitLab. Instead, it is useful for project organisation on your local computer.
