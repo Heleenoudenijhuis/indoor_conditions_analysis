@@ -1,0 +1,4 @@
+# Use this file to list the libraries and any other dependencies your code requires to run. In Python, this file is generally called "requirements.txt" or if using Conda, "environment.yml", and in R it is named .Rprofile. If your code relies on libraries or packages beyond the base, it is helpful to have a file like this in your repository so others can quickly replicate the environment used to successfully run the code. Check out these guides to creating a file like this in: 
+
+# Python: https://medium.com/python-pandemonium/better-python-dependency-and-package-management-b5d8ea29dff1
+# R: https://support.rstudio.com/hc/en-us/articles/360047157094-Managing-R-with-Rprofile-Renviron-Rprofile-site-Renviron-site-rsession-conf-and-repos-conf
